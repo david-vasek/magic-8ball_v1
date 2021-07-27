@@ -1,3 +1,23 @@
+## The Magic 8 Ball_v1
+
+A React app that takes user input and consults the Magic Eight Ball API
+API: [https://8ball.delegator.com/](https://8ball.delegator.com/)
+
+### Overview of App
+* Using stateful Components
+* Hooks
+* _Display a list of all questions and their corresponding answers_
+* Accept user input in the form of a question
+* Returns the response from Magic Eight Ball
+* Make the answer _look like the Magic Eight Ball image_
+ ---
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
